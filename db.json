@@ -1,0 +1,659 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Bomber",
+      "price": 200000,
+      "size": [
+        {
+          "id": 1,
+          "name": "S"
+        },
+        {
+          "id": 2,
+          "name": "M"
+        },
+        {
+          "id": 3,
+          "name": "L"
+        }
+      ],
+      "color": [
+        {
+          "id": 1,
+          "name": "Grey",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676193/media-tiracommerce/jackets/jaket3a-abu_uio3zi.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676195/media-tiracommerce/jackets/jaket3b-abu_kz2jgj.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676193/media-tiracommerce/jackets/jaket3c-abu_lkuwcu.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Chocolate",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676195/media-tiracommerce/jackets/jaket3a-coklat_anovfq.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676193/media-tiracommerce/jackets/jaket3b-coklat_bqjord.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676195/media-tiracommerce/jackets/jaket3c-coklat_omuls8.jpg"
+            }
+          ]
+        }
+      ],
+      "desc": "Bahan jaket ini terbuat dari suede yang halus, tidak panas dan nyaman untuk dipakai.",
+      "category": {
+        "id": 1,
+        "name": "Jackets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Hoodie",
+      "price": 175000,
+      "size": [
+        {
+          "id": 1,
+          "name": "S"
+        },
+        {
+          "id": 2,
+          "name": "M"
+        },
+        {
+          "id": 3,
+          "name": "L"
+        }
+      ],
+      "color": [
+        {
+          "id": 1,
+          "name": "Grey",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676189/media-tiracommerce/jackets/jaket2a-abu_vse64g.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676191/media-tiracommerce/jackets/jaket2b-abu_bwhjy5.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676191/media-tiracommerce/jackets/jaket2c-abu_w2nvqu.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Black",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676185/media-tiracommerce/jackets/jaket2a-hitam_ge2koh.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676186/media-tiracommerce/jackets/jaket2b-hitam_gtjm4j.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676191/media-tiracommerce/jackets/jaket2c-hitam_mzkoao.jpg"
+            }
+          ]
+        }
+      ],
+      "desc": "Bahan Jaket Hoodie ini terbuat dari bahan yang lembut, nyaman dan tidak mudah gerah saat digunakan.",
+      "category": {
+        "id": 1,
+        "name": "Jackets"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Collar Jacket",
+      "price": 250000,
+      "size": [
+        {
+          "id": 1,
+          "name": "S"
+        },
+        {
+          "id": 2,
+          "name": "M"
+        },
+        {
+          "id": 3,
+          "name": "L"
+        }
+      ],
+      "color": [
+        {
+          "id": 1,
+          "name": "Army",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676189/media-tiracommerce/jackets/jaket1a-army_c9dgki.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676195/media-tiracommerce/jackets/jaket1b-army_ye4ifa.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676186/media-tiracommerce/jackets/jaket1c-army_r0efp7.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Chocolate",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676188/media-tiracommerce/jackets/Jaket1a-coklat_pbipdz.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676198/media-tiracommerce/jackets/jaket1b-coklat_ahir1w.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676184/media-tiracommerce/jackets/jaket1c-coklat_zsbx57.jpg"
+            }
+          ]
+        }
+      ],
+      "desc": "Bahan dari jaket ini terbuat dari bahan yang nyaman untuk digunakan dengan jahitan yang rapih dan tidak mudah kusut.",
+      "category": {
+        "id": 1,
+        "name": "Jackets"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Long Sleeve",
+      "price": 75000,
+      "size": [
+        {
+          "id": 1,
+          "name": "S"
+        },
+        {
+          "id": 2,
+          "name": "M"
+        },
+        {
+          "id": 3,
+          "name": "L"
+        }
+      ],
+      "color": [
+        {
+          "id": 1,
+          "name": "Navy",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676235/media-tiracommerce/shirts/kaosa-biru_dwmppw.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676236/media-tiracommerce/shirts/kaosb-biru_wokv6b.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Green",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676235/media-tiracommerce/shirts/kaosa-ijo_d2hcuz.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676235/media-tiracommerce/shirts/kaosb-ijo_ihkyop.jpg"
+            }
+          ]
+        }
+      ],
+      "desc": "Bahan dari kaos ini terbuat dari bahan cotton combat 30s yang tipis dan nyaman saat digunakan.",
+      "category": {
+        "id": 2,
+        "name": "Shirts"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Collar Shirt",
+      "price": 100000,
+      "size": [
+        {
+          "id": 1,
+          "name": "S"
+        },
+        {
+          "id": 2,
+          "name": "M"
+        },
+        {
+          "id": 3,
+          "name": "L"
+        }
+      ],
+      "color": [
+        {
+          "id": 1,
+          "name": "Army",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676237/media-tiracommerce/shirts/kemeja2a-army_m909hf.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676238/media-tiracommerce/shirts/kemeja2b-army_gixbxn.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676238/media-tiracommerce/shirts/kemeja2c-army_jx7b4g.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Navy",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676237/media-tiracommerce/shirts/kemeja2a-navy_znw2g3.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676238/media-tiracommerce/shirts/kemeja2b-navy_lkx8dy.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676239/media-tiracommerce/shirts/kemeja2c-navy_sbbdyl.jpg"
+            }
+          ]
+        }
+      ],
+      "desc": "Kemeja ini terbuat dari bahan yang tidak mudah kusut, tidak gerah dan nyaman saat digunakan.",
+      "category": {
+        "id": 2,
+        "name": "Shirts"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Plain Shirt",
+      "price": 100000,
+      "size": [
+        {
+          "id": 1,
+          "name": "S"
+        },
+        {
+          "id": 2,
+          "name": "M"
+        },
+        {
+          "id": 3,
+          "name": "L"
+        }
+      ],
+      "color": [
+        {
+          "id": 1,
+          "name": "White",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676241/media-tiracommerce/shirts/kemejaa-putih_klibnu.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676242/media-tiracommerce/shirts/kemejab-putih_fn7qwz.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676243/media-tiracommerce/shirts/kemejac-putih_xesolk.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Black",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676238/media-tiracommerce/shirts/kemejaa-hitam_e67f2p.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676240/media-tiracommerce/shirts/kemejab-hitam_zacb7n.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676240/media-tiracommerce/shirts/kemejac-hitam_sif7im.jpg"
+            }
+          ]
+        }
+      ],
+      "desc": "Kemeja ini cocok untuk acara formal karena tidak mudah kusut dan tidak gerah saat di kenakan.",
+      "category": {
+        "id": 2,
+        "name": "Shirts"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Chino",
+      "price": 125000,
+      "size": [
+        {
+          "id": 1,
+          "name": "S"
+        },
+        {
+          "id": 2,
+          "name": "M"
+        },
+        {
+          "id": 3,
+          "name": "L"
+        }
+      ],
+      "color": [
+        {
+          "id": 1,
+          "name": "Brown",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676273/media-tiracommerce/pants/pant2a-coklat_hmgkuf.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676278/media-tiracommerce/pants/pant2b-coklat_bpskre.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676275/media-tiracommerce/pants/pant2c-coklat_ualky4.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Black",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676272/media-tiracommerce/pants/pant2a-hitam_ws7uut.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676276/media-tiracommerce/pants/pant2b-hitam_ftak9q.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676276/media-tiracommerce/pants/pant2c-hitam_onnmgv.jpg"
+            }
+          ]
+        }
+      ],
+      "desc": "Celana ini terbuat dari katun twill yang nyaman saat digunakan dan tidak mudah kotor.",
+      "category": {
+        "id": 3,
+        "name": "Pants"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Jeans",
+      "price": 150000,
+      "size": [
+        {
+          "id": 1,
+          "name": "S"
+        },
+        {
+          "id": 2,
+          "name": "M"
+        },
+        {
+          "id": 3,
+          "name": "L"
+        }
+      ],
+      "color": [
+        {
+          "id": 1,
+          "name": "Blue",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676273/media-tiracommerce/pants/pant1a_a6vrx4.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676275/media-tiracommerce/pants/pant1b_xv1ovk.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676275/media-tiracommerce/pants/pant1c_m5blih.jpg"
+            }
+          ]
+        }
+      ],
+      "desc": "Celana ini berukuran slim straight yang pas untuk bepergian dan tidak mudah kusut saat di kenakan.",
+      "category": {
+        "id": 3,
+        "name": "Pants"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Jogger Pants",
+      "price": 175000,
+      "size": [
+        {
+          "id": 1,
+          "name": "S"
+        },
+        {
+          "id": 2,
+          "name": "M"
+        },
+        {
+          "id": 3,
+          "name": "L"
+        }
+      ],
+      "color": [
+        {
+          "id": 1,
+          "name": "Army",
+          "pict": [
+            {
+              "id": 1,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676278/media-tiracommerce/pants/pant3a_ooxzlv.jpg"
+            },
+            {
+              "id": 2,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676280/media-tiracommerce/pants/pant3b_xax00b.jpg"
+            },
+            {
+              "id": 3,
+              "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676280/media-tiracommerce/pants/pant3c_rrmvfz.jpg"
+            }
+          ]
+        }
+      ],
+      "desc": "Bahan dari celana ini terbuat dari katun twill yang nyaman saat digunakan.",
+      "category": {
+        "id": 3,
+        "name": "Pants"
+      }
+    }
+  ],
+  "carts": [
+    {
+      "total": 2,
+      "selected_size": "S",
+      "selected_color": "Army",
+      "pict": "https://res.cloudinary.com/dblm329in/image/upload/v1652676237/media-tiracommerce/shirts/kemeja2a-army_m909hf.jpg",
+      "name": "Collar Shirt",
+      "total_price": 200000,
+      "product": {
+        "id": 5,
+        "name": "Collar Shirt",
+        "price": 100000,
+        "size": [
+          {
+            "id": 1,
+            "name": "S"
+          },
+          {
+            "id": 2,
+            "name": "M"
+          },
+          {
+            "id": 3,
+            "name": "L"
+          }
+        ],
+        "color": [
+          {
+            "id": 1,
+            "name": "Army",
+            "pict": [
+              {
+                "id": 1,
+                "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676237/media-tiracommerce/shirts/kemeja2a-army_m909hf.jpg"
+              },
+              {
+                "id": 2,
+                "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676238/media-tiracommerce/shirts/kemeja2b-army_gixbxn.jpg"
+              },
+              {
+                "id": 3,
+                "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676238/media-tiracommerce/shirts/kemeja2c-army_jx7b4g.jpg"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Navy",
+            "pict": [
+              {
+                "id": 1,
+                "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676237/media-tiracommerce/shirts/kemeja2a-navy_znw2g3.jpg"
+              },
+              {
+                "id": 2,
+                "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676238/media-tiracommerce/shirts/kemeja2b-navy_lkx8dy.jpg"
+              },
+              {
+                "id": 3,
+                "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676239/media-tiracommerce/shirts/kemeja2c-navy_sbbdyl.jpg"
+              }
+            ]
+          }
+        ],
+        "desc": "Kemeja ini terbuat dari bahan yang tidak mudah kusut, tidak gerah dan nyaman saat digunakan.",
+        "category": {
+          "id": 2,
+          "name": "Shirts"
+        }
+      },
+      "id": 1
+    },
+    {
+      "total": 1,
+      "selected_size": "M",
+      "selected_color": "Army",
+      "pict": "https://res.cloudinary.com/dblm329in/image/upload/v1652676278/media-tiracommerce/pants/pant3a_ooxzlv.jpg",
+      "name": "Jogger Pants",
+      "total_price": 175000,
+      "product": {
+        "id": 9,
+        "name": "Jogger Pants",
+        "price": 175000,
+        "size": [
+          {
+            "id": 1,
+            "name": "S"
+          },
+          {
+            "id": 2,
+            "name": "M"
+          },
+          {
+            "id": 3,
+            "name": "L"
+          }
+        ],
+        "color": [
+          {
+            "id": 1,
+            "name": "Army",
+            "pict": [
+              {
+                "id": 1,
+                "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676278/media-tiracommerce/pants/pant3a_ooxzlv.jpg"
+              },
+              {
+                "id": 2,
+                "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676280/media-tiracommerce/pants/pant3b_xax00b.jpg"
+              },
+              {
+                "id": 3,
+                "url": "https://res.cloudinary.com/dblm329in/image/upload/v1652676280/media-tiracommerce/pants/pant3c_rrmvfz.jpg"
+              }
+            ]
+          }
+        ],
+        "desc": "Bahan dari celana ini terbuat dari katun twill yang nyaman saat digunakan.",
+        "category": {
+          "id": 3,
+          "name": "Pants"
+        }
+      },
+      "id": 3
+    }
+  ],
+  "newArrival": [],
+  "category": [
+    {
+      "id": 1,
+      "name": "Jakets"
+    },
+    {
+      "id": 2,
+      "name": "Shirts"
+    },
+    {
+      "id": 3,
+      "name": "Pants"
+    }
+  ]
+}
